@@ -1,3 +1,3 @@
 # frontend-mentor-huddle-landing-page
-<h1>Huddle landing page with a single introductory section</h1>
+<strong>Huddle landing page with a single introductory section</strong>
 <p>A perfect challenge for beginners, this project will get you working with a two column layout.</p>
